@@ -1,4 +1,5 @@
 # Image Scaler API
+[![Run Test Cases](https://github.com/Gagan-C/Image_Scaler_API/actions/workflows/test.yml/badge.svg)](https://github.com/Gagan-C/Image_Scaler_API/actions/workflows/test.yml)
 
 ## Overview
 
