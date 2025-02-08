@@ -40,6 +40,10 @@ Image Scaler API is a FastAPI-based service that allows users to reduce the reso
 ## Running the Application
 1. Start the FastAPI 
 
+    ```bash
+    uvicorn main:app --host 0.0.0.0 --port 8000
+    ```
+
 2. The API will be available at http://localhost:8000.
 
 ## API Endpoints
